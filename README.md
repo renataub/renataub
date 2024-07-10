@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Rena
+
+I'm a programmer who loves working and learning more...
+
+## 👩‍💻Languages, Tools and Technologies I Know and use
 
 <!--
 **renataub/renataub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
