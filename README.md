@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Rena
 
-I'm a programmer who loves working and learning more...
-
+I am a software engineering student who loves programming and always wants to learn more and increase my knowledge
 ## 👩‍💻Languages, Tools and Technologies I Know and use
 
 <!--
