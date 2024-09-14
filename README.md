@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rena
 
-I am a software engineering student who loves programming and always wants to learn more and increase my knowledge
+I'm a passionate software developer with a strong interest in technology and innovation. My knowledge spans across various programming languages and technologies
 ## 👩‍💻Languages, Tools and Technologies I Know and use
 
 <code><img height="40"  width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
