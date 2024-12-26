@@ -8,7 +8,9 @@ I'm a passionate software developer with a strong interest in technology and inn
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" ></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></code>
@@ -27,4 +29,8 @@ I'm a passionate software developer with a strong interest in technology and inn
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
 
