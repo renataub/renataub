@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rena
 
-I'm a passionate software developer with a strong interest in technology and innovation. My knowledge spans across various programming languages and technologies
+I'm an experienced Full Stack Developer with a strong background in building scalable web systems and applications using React, Node.js, MongoDB, and microservices architecture. Skilled in both front-end and back-end development, version control (Git), and deploying via Docker. Proficient in delivering high-quality software solutions that meet client needs. A motivated problem solver and collaborative team player, eager to contribute expertise in developing innovative and reliable software products.
 ## 👩‍💻Languages, Tools and Technologies I Know and use
 
 <code><img height="40"  width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
